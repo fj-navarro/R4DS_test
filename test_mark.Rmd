@@ -4,7 +4,7 @@ author: "fjn"
 date: "2023-01-02"
 output: html_document
 ---
-Esto es una infamia!! y cambio la historia.
+Esto es una infamia!! y cambio la historia. Y estos cambios qué?
 
 
 ```{r setup, include=FALSE}
