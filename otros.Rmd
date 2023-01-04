@@ -4,8 +4,12 @@ author: "fjn"
 date: "2023-01-02"
 output: html_document
 ---
+<<<<<<< HEAD
 Una infamia a secas.
+=======
+>>>>>>> 5b44363939ec300610e5413de11b7abb40e19348
 
+Esto es simplmemente una infamia!! 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
