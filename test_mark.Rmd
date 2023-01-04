@@ -6,7 +6,7 @@ output: html_document
 ---
 Esto es una infamia!! y cambio la historia
 
-Y esto lo subo a la branch, jn.
+Y esto lo subo a la branch, jn. Añado este comentario en GitHub.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
