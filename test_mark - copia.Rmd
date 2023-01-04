@@ -4,11 +4,7 @@ author: "fjn"
 date: "2023-01-02"
 output: html_document
 ---
-<<<<<<< HEAD
-Esto es una infamia!! y cambio la historia. Y estos cambios qué?
-=======
-Esto es una infamia!! y cambio la historia. Pull, pero hay trabajo local.
->>>>>>> f2b1638155801549b72afc65b9b6c414c2880daa
+Una infamia a secas.
 
 
 ```{r setup, include=FALSE}
