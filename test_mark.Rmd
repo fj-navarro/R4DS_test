@@ -8,6 +8,8 @@ Esto es una infamia!! y cambio la historia
 
 Y esto lo subo a la branch, jn. Añado este comentario en GitHub.
 
+y ahora añado esto.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
