@@ -6,6 +6,8 @@ output: html_document
 ---
 Esto es una infamia!! y cambio la historia
 
+Y esto lo subo a la branch, jn.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
